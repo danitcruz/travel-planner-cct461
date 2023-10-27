@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travel Planner</string>
+    <string name="create_a_packing_list">CREATE A PACKING LIST</string>
+    <string name="create_an_itinerary">CREATE AN ITINERARY</string>
+    <string name="packing_list">Packing List</string>
+    <string name="tops">Tops</string>
+    <string name="bottoms">Bottoms</string>
+    <string name="undergarments">Undergarments</string>
+    <string name="shoes">Shoes</string>
+    <string name="finish_packing">Finish Packing</string>
+    <string name="count_initial_value">0</string>
+    <string name="count_initial_value2">0</string>
+    <string name="count_initial_value3">0</string>
+    <string name="count_initial_value4">0</string>
+    <string name="itinerary_builder">ITINERARY BUILDER</string>
+    <string name="time">Time</string>
+    <string name="activity">Activity</string>
+    <string name="input_time">input time</string>
+    <string name="enter_activity">enter activity</string>
+    <string name="submit_itinerary">Submit Itinerary</string>
+    <string name="your_itinerary">YOUR ITINERARY</string>
+    <string name="missing_field">FIELD IS MISSING</string>
+    <string name="enter_packing_item">Enter Packing Item</string>
+    <string name="add_to_packing_list">Add to Packing List</string>
+    <string name="screenshot_to_save">screenshot to save!</string>
+
+</resources>
